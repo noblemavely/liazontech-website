@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------
+F/*------------------------------------------------------------------
     Main Style Stylesheet
     Project:        IOD - Corporate HTML5 Template
     Version:        1.0
@@ -626,7 +626,7 @@ header .navbar li.active a {
 	background-size: cover;
 }
 .home-slide .slide-img-2 {
-	background: url(../images/slides/slide2.jpg) center center no-repeat;
+	background: url(../images/slides/slide2.jpg) center no-repeat;
 	background-size: cover;
 }
 .home-slide .flex-control-nav {

@@ -59,6 +59,28 @@ transform:scale(0.5);
 transform:scale(1);
 }
 }
+.slider_text{
+	font-size: 50px;
+	color: #ffffff !important;
+	font-weight: normal;
+	color: #252525;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+.slider_text_sub{
+	font-size: 30px;
+	color: #ffffff !important;
+	font-weight: normal;
+	color: #252525;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+
 .ownmenu {
 	padding: 0;
 	margin: 0;
